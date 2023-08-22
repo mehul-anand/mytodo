@@ -1,0 +1,16 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+button {
+  color: ivory;
+  background-color: #846eee;
+  border: 2px solid #846eee;
+  margin: 1rem;
+}
+
+button:hover {
+  color: #846eee;
+  background-color: ivory;
+}
